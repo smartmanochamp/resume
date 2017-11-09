@@ -1,1 +1,1 @@
-# smartmanochamp.com
+# smartmanochamp.github.com
